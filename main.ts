@@ -8,6 +8,3 @@ input.onPinPressed(TouchPin.P1, function () {
 input.onPinPressed(TouchPin.P2, function () {
     music.ringTone(Note.E)
 })
-input.onPinPressed(TouchPin.P3, function () {
-    music.ringTone(Note.F)
-})
